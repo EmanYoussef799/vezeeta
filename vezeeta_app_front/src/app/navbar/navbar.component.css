@@ -1,0 +1,12 @@
+.v{
+    display:flex;
+    align-items: baseline
+}
+
+.com{
+    color: red;
+    font-size: 22px;
+}
+.vez{
+    font-size: 40px;
+}
